@@ -1,4 +1,4 @@
-defautl: build
+default: build
 
 build:
 	marp --pdf --allow-local-files README.md
