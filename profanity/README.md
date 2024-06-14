@@ -17,7 +17,7 @@ section::after {
 
 ---
 
-http://spot.brierearmand.com/
+Look at this nice web page
 
 ---
 
@@ -25,7 +25,7 @@ http://spot.brierearmand.com/
 
 ---
 
-He's mad because he's a bot and he doesn't like profanity
+He's mad because he's a nice dog and he doesn't like profanity
 
 How does he know?
 
